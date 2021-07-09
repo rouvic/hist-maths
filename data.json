@@ -1,10 +1,44 @@
 [
-  {"name":"Arthur Cayley",
-   "date_of_birth":1821,
-   "date_of_death":1895},
-  
-  
-  {"name":"William Rowan Hamilton",
-   "date_of_birth":1805,
-   "date_of_death":1865}
+  {
+    "___id": "T000004R000002",
+    "___s": true,
+    "date_of_birth": "16 Aug 1821",
+    "date_of_death": "26 Jan 1895",
+    "name": "Arthur Cayley"
+  },
+  {
+    "___id": "T000004R000003",
+    "___s": true,
+    "date_of_birth": "04 Aug 1805",
+    "date_of_death": "02 Sep 1865",
+    "name": "William Rowan Hamilton"
+  },
+  {
+    "___id": "T000004R000004",
+    "___s": true,
+    "date_of_birth": "26 Oct 1849",
+    "date_of_death": "03 Aug 1917",
+    "name": "Ferdinand Georg Frobenius"
+  },
+  {
+    "___id": "T000004R000005",
+    "___s": true,
+    "date_of_birth": "15 Apr 1707",
+    "date_of_death": "07 Sep 1783",
+    "name": "Leonhard Euler"
+  },
+  {
+    "___id": "T000004R000006",
+    "___s": true,
+    "date_of_birth": "21 Aug 1789",
+    "date_of_death": "23 May 1857",
+    "name": "Augustin Louis Cauchy"
+  },
+  {
+    "___id": "T000004R000007",
+    "___s": true,
+    "date_of_birth": "30 Apr 1777",
+    "date_of_death": "23 Feb 1855",
+    "name": "Carl Friedrich Gauss"
+  }
 ]
